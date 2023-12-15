@@ -1,16 +1,17 @@
 # Go Card Project
 
-## Overview
+## Project Overview
 
-This project is my introduction to the Go programming language. It focuses on creating a deck of cards, generating the deck, and dealing cards using key Go language concepts.
+This is a simple Go project where I've started learning the basics of the Go programming language. The project involves creating a deck of cards, generating the deck, and dealing cards.
 
-## Table of Contents
+## Learning Goals
 
-- [Project Structure](#project-structure)
-- [How to Run](#how-to-run)
-- [Learning Goals](#learning-goals)
-- [Contributions](#contributions)
-- [License](#license)
+I'm using this project to learn and practice the following concepts in Go:
+
+- Receiver Functions
+- Custom Type Declarations
+- Slices
+- For Loops
 
 ## Project Structure
 
@@ -30,3 +31,22 @@ To run the project, you need to have Go installed on your machine. Follow these 
    git clone https://github.com/yourusername/go-card-project.git
    cd go-card-project
    ```
+
+   Run the main program:
+
+bash
+Copy code
+go run main.go
+Run tests:
+
+bash
+Copy code
+go test
+
+Learning Goals
+The primary learning goals for this project include:
+
+Understanding receiver functions in Go.
+Defining and working with custom types.
+Implementing basic functionalities using slices.
+Practicing iterative control structures with for loops.
