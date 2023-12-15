@@ -28,22 +28,26 @@ To run the project, you need to have Go installed on your machine. Follow these 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/go-card-project.git
+   git clone https://github.com/Ugurercin/go-card-project.git
    cd go-card-project
    ```
 
-   Run the main program:
+2. Run the main program:
 
-bash
+```bash
 Copy code
 go run main.go
-Run tests:
+```
 
-bash
+3. Run tests:
+
+```bash
 Copy code
 go test
+```
 
-Learning Goals
+## Learning Goals
+
 The primary learning goals for this project include:
 
 Understanding receiver functions in Go.
