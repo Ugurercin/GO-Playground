@@ -35,14 +35,12 @@ To run the project, you need to have Go installed on your machine. Follow these 
 2. Run the main program:
 
 ```bash
-Copy code
 go run main.go
 ```
 
 3. Run tests:
 
 ```bash
-Copy code
 go test
 ```
 
