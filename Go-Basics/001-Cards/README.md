@@ -2,16 +2,18 @@
 
 ## Project Overview
 
-This is a simple Go project where I've started learning the basics of the Go programming language. The project involves creating a deck of cards, generating the deck, and dealing cards.
+This is a simple Go project where I've started learning the basics of the Go programming language. The project involves creating a deck of cards, generating the deck, shuffling cards, and dealing cards.
 
 ## Learning Goals
 
-I'm using this project to learn and practice the following concepts in Go:
+The primary learning goals for this project include:
 
-- Receiver Functions
-- Custom Type Declarations
-- Slices
-- For Loops
+- Understanding receiver functions in Go.
+- Defining and working with custom types.
+- Implementing basic functionalities using slices.
+- Practicing iterative control structures with for loops.
+- Basic testing logic.
+- File I/O
 
 ## Project Structure
 
@@ -43,12 +45,3 @@ go run main.go
 ```bash
 go test
 ```
-
-## Learning Goals
-
-The primary learning goals for this project include:
-
-- Understanding receiver functions in Go.
-- Defining and working with custom types.
-- Implementing basic functionalities using slices.
-- Practicing iterative control structures with for loops.
