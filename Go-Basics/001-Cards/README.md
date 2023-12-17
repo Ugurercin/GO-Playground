@@ -48,7 +48,7 @@ go test
 
 The primary learning goals for this project include:
 
-Understanding receiver functions in Go.
-Defining and working with custom types.
-Implementing basic functionalities using slices.
-Practicing iterative control structures with for loops.
+- Understanding receiver functions in Go.
+- Defining and working with custom types.
+- Implementing basic functionalities using slices.
+- Practicing iterative control structures with for loops.
