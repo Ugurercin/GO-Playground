@@ -1,3 +1,3 @@
-module github.com/Ugurercin/GO-Playground.git
+module cards
 
 go 1.21.5
